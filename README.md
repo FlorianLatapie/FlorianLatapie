@@ -14,6 +14,8 @@ I'm Florian Latapie, living in France and currently studying for an engineering 
 
 [![GitHub Streak][Github Streak]](https://git.io/streak-stats)
 
+[![Readme Card][Readme Card]](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs][Top Langs]](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Sources -->
@@ -31,4 +33,5 @@ I'm Florian Latapie, living in France and currently studying for an engineering 
 <!-- Stats -->
 [GitHub Stats]: https://github-readme-stats.vercel.app/api?username=FlorianLatapie&count_private=true&show_icons=true 
 [GitHub Streak]: https://github-readme-streak-stats.herokuapp.com/?user=florianlatapie
+[Readme Card]: https://github-readme-stats.vercel.app/api/pin/?username=florianlatapie&repo=florianlatapie&show_owner=true
 [Top Langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=FlorianLatapie
