@@ -10,6 +10,9 @@ I'm Florian Latapie, living in France and currently studying for an engineering 
 - [gist.github.com/FlorianLatapie][gist github] // my Gist : there is a lot of tiny projects I've made, some of them are funny, some are useful you should check them out !
 
 # My stats
+![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=FlorianLatapie)
+![GitHub License](https://img.shields.io/github/license/FlorianLatapie/FlorianLatapie)
+
 [![GitHub Stats][GitHub Stats]](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak][Github Streak]](https://git.io/streak-stats)
@@ -32,6 +35,6 @@ I'm Florian Latapie, living in France and currently studying for an engineering 
 
 <!-- Stats -->
 [GitHub Stats]: https://github-readme-stats.vercel.app/api?username=FlorianLatapie&count_private=true&show_icons=true 
-[GitHub Streak]: https://github-readme-streak-stats.herokuapp.com/?user=florianlatapie
+[GitHub Streak]: https://github-readme-streak-stats.herokuapp.com/?user=florianlatapie&date_format=j%2Fn%5B%2FY%5D
 [Readme Card]: https://github-readme-stats.vercel.app/api/pin/?username=florianlatapie&repo=florianlatapie&show_owner=true
 [Top Langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=FlorianLatapie
