@@ -3,7 +3,8 @@
 I'm Florian Latapie, living in France and currently studying for an engineering degree in Computer Science at the [Polytech Nice : Sophia Antipolis engineering graduate school][Polytech]
 
 # My projects 
-- [BetterClock][BetterClock link] - Analog & Digital clock at the same time 
+- [BetterClock][BetterClock] - Analog & Digital clock at the same time
+- [Config][Config] - All config files for my computers
 
 # My links 
 - [florianlatapie.github.io][github.io]         // redirects to my LinkedIn page
@@ -27,7 +28,8 @@ I'm Florian Latapie, living in France and currently studying for an engineering 
 [Polytech]: https://polytech.univ-cotedazur.fr/
 
 <!-- Projects links-->
-[BetterClock link]: https://github.com/FlorianLatapie/BetterClock
+[BetterClock]: https://github.com/FlorianLatapie/BetterClock
+[Config]: https://github.com/FlorianLatapie/Config
 
 <!-- My links -->
 [github.io]: https://florianlatapie.github.io/
