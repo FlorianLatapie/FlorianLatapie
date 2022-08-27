@@ -5,6 +5,8 @@ I'm Florian Latapie, living in France and currently studying for an engineering 
 # My projects 
 - [BetterClock][BetterClock] - Analog & Digital clock at the same time
 - [Config][Config] - All config files for my computers
+- [gui-python-scripts][gui-python-scripts] - Various python scripts for CSV file analysis with UI in Tkinter.
+
 # Most notable gists 
 - [palin13.py][palin13] - This script prints words that are still words when rot13 is applied.
 - [imgzipper.py and imgzipper-golfed.py][imgzipper] - This script creates a zip file with the images asked by the user (two files : golfed and readable).
@@ -37,6 +39,8 @@ I'm Florian Latapie, living in France and currently studying for an engineering 
 <!-- Projects links-->
 [BetterClock]: https://github.com/FlorianLatapie/BetterClock
 [Config]: https://github.com/FlorianLatapie/Config
+[gui-python-scripts]: https://github.com/FlorianLatapie/gui-python-scripts
+
 <!-- Gists links -->
 [palin13]: https://gist.github.com/FlorianLatapie/dcbfc6a26423162c2fef6886a3501684
 [imgzipper]: https://gist.github.com/FlorianLatapie/60785afb8cd25b8767e14832d19679eb
