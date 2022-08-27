@@ -5,6 +5,13 @@ I'm Florian Latapie, living in France and currently studying for an engineering 
 # My projects 
 - [BetterClock][BetterClock] - Analog & Digital clock at the same time
 - [Config][Config] - All config files for my computers
+# Most notable gists 
+- [palin13.py][palin13] - This script prints words that are still words when rot13 is applied.
+- [imgzipper.py and imgzipper-golfed.py][imgzipper] - This script creates a zip file with the images asked by the user (two files : golfed and readable).
+- [snake.py][snake] - Simple Python snake using curses.
+- [AreYouDumb.java][AreYouDumb] - Simple funny Java Swing window.
+- [mvn_win_install.cmd][mvn_win_install] - Windows command to install maven because its such a pain to do it manually.
+- [tictactoe.py][tictactoe] - Simple Python Tic-tac-toe using the mouse in the terminal with curses
 
 # My links 
 - [florianlatapie.github.io][github.io]         // redirects to my LinkedIn page
@@ -30,6 +37,11 @@ I'm Florian Latapie, living in France and currently studying for an engineering 
 <!-- Projects links-->
 [BetterClock]: https://github.com/FlorianLatapie/BetterClock
 [Config]: https://github.com/FlorianLatapie/Config
+<!-- Gists links -->
+[palin13]: https://gist.github.com/FlorianLatapie/dcbfc6a26423162c2fef6886a3501684
+[imgzipper]: https://gist.github.com/FlorianLatapie/60785afb8cd25b8767e14832d19679eb
+[snake]: https://gist.github.com/FlorianLatapie/3f67869fc97fa5c76b86fac4fce9500b
+[AreYouDumb]: https://gist.github.com/FlorianLatapie/e56b7ccb152d8851c8944339a60de1ca
 
 <!-- My links -->
 [github.io]: https://florianlatapie.github.io/
