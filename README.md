@@ -5,7 +5,8 @@ I'm Florian Latapie, living in France and currently studying for an engineering 
 # My projects 
 - [BetterClock][BetterClock] - Analog & Digital clock at the same time
 - [Config][Config] - All config files for my computers
-- [gui-python-scripts][gui-python-scripts] - Various python scripts for CSV file analysis with UI in Tkinter.
+- [GUI Python scripts][gui-python-scripts] - Various python scripts for CSV file analysis with UI in Tkinter.
+- [GUI Windows Sandbox configuration][GUI-Windows-Sandbox-configuration] - Python Tkinter Graphical User Interface to configure Windows Sandbox
 
 # Most notable gists 
 - [palin13.py][palin13] - This script prints words that are still words when rot13 is applied.
@@ -39,7 +40,8 @@ I'm Florian Latapie, living in France and currently studying for an engineering 
 <!-- Projects links-->
 [BetterClock]: https://github.com/FlorianLatapie/BetterClock
 [Config]: https://github.com/FlorianLatapie/Config
-[gui-python-scripts]: https://github.com/FlorianLatapie/gui-python-scripts
+[gui-python-scripts]: https://github.com/FlorianLatapie/gui-python-
+[GUI-Windows-Sandbox-configuration]: https://github.com/FlorianLatapie/GUI-Windows-Sandbox-configuration
 
 <!-- Gists links -->
 [palin13]: https://gist.github.com/FlorianLatapie/dcbfc6a26423162c2fef6886a3501684
