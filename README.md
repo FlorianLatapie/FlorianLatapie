@@ -3,9 +3,9 @@
 I'm Florian Latapie, living in France and currently studying for an engineering degree in Computer Science at the [Polytech Nice : Sophia Antipolis engineering graduate school][Polytech]
 
 # Projects 
-- [BetterClock][BetterClock] - Analog & Digital clock at the same time.
+- [BetterClock][BetterClock] - Analog & Digital clock at the same time, Java project.
 - [Config][Config] - All config files for my computers.
-- [GUI Python scripts][gui-python-scripts] - Various python scripts for CSV file analysis with UI in Tkinter.
+- [GUI Python scripts][gui-python-scripts] - Various Python scripts for CSV file analysis with UI in Tkinter.
 - [GUI Windows Sandbox configuration][GUI-Windows-Sandbox-configuration] - Python Tkinter Graphical User Interface to configure Windows Sandbox.
 - [LeftOrRightSimple][LeftOrRightSimple] - Ask the community what they think about different concepts, PHP project.
 
@@ -41,7 +41,7 @@ I'm Florian Latapie, living in France and currently studying for an engineering 
 <!-- Projects links-->
 [BetterClock]: https://github.com/FlorianLatapie/BetterClock
 [Config]: https://github.com/FlorianLatapie/Config
-[gui-python-scripts]: https://github.com/FlorianLatapie/gui-python-
+[gui-python-scripts]: https://github.com/FlorianLatapie/gui-python-scripts
 [GUI-Windows-Sandbox-configuration]: https://github.com/FlorianLatapie/GUI-Windows-Sandbox-configuration
 [LeftOrRightSimple]: https://github.com/FlorianLatapie/LeftOrRightSimple
 
