@@ -8,6 +8,7 @@ I'm Florian Latapie, living in France and currently studying for an engineering 
 - [GUI Python scripts][gui-python-scripts] - Various Python scripts for CSV file analysis with UI in Tkinter.
 - [GUI Windows Sandbox configuration][GUI-Windows-Sandbox-configuration] - Python Tkinter Graphical User Interface to configure Windows Sandbox.
 - [LeftOrRightSimple][LeftOrRightSimple] - Ask the community what they think about different concepts, PHP project.
+- [computer-outro][computer-outro] - Shutdown your computer with an awesome outro music !
 
 # Most notable gists 
 - [palin13.py][palin13] - This script prints words that are still words when rot13 is applied.
@@ -44,6 +45,7 @@ I'm Florian Latapie, living in France and currently studying for an engineering 
 [gui-python-scripts]: https://github.com/FlorianLatapie/gui-python-scripts
 [GUI-Windows-Sandbox-configuration]: https://github.com/FlorianLatapie/GUI-Windows-Sandbox-configuration
 [LeftOrRightSimple]: https://github.com/FlorianLatapie/LeftOrRightSimple
+[computer-outro]: https://github.com/FlorianLatapie/computer-outro
 
 <!-- Gists links -->
 [palin13]: https://gist.github.com/FlorianLatapie/dcbfc6a26423162c2fef6886a3501684
