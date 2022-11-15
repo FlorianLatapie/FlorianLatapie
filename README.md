@@ -19,8 +19,8 @@ I'm Florian Latapie, living in France and currently studying for an engineering 
 - [tictactoe.py][tictactoe] - Simple Python Tic-tac-toe using the mouse in the terminal with curses.
 
 # Links 
-- [florianlatapie.github.io][github.io]         // redirects to my LinkedIn page
-- [gist.github.com/FlorianLatapie][gist github] // my Gist : there is a lot of tiny projects I've made, some of them are funny, some are useful you should check them out !
+- [florianlatapie.github.io][github.io]         - redirects to my LinkedIn page
+- [gist.github.com/FlorianLatapie][gist github] - my Gist : there is a lot of tiny projects I've made, some of them are funny, some are useful you should check them out !
 
 # Stats
 ![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=FlorianLatapie)
