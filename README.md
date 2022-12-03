@@ -1,8 +1,9 @@
-# Hey there!
+# Hey there
 
 I'm Florian Latapie, living in France and currently studying for an engineering degree in Computer Science at the [Polytech Nice : Sophia Antipolis engineering graduate school][Polytech]
 
-# Projects 
+## Projects
+
 - [BetterClock][BetterClock] - Analog & Digital clock at the same time, Java project.
 - [Config][Config] - All config files for my computers.
 - [GUI Python scripts][gui-python-scripts] - Various Python scripts for CSV file analysis with UI in Tkinter.
@@ -10,19 +11,23 @@ I'm Florian Latapie, living in France and currently studying for an engineering 
 - [LeftOrRightSimple][LeftOrRightSimple] - Ask the community what they think about different concepts, PHP project.
 - [computer-outro][computer-outro] - Shutdown your computer with an awesome outro music !
 
-# Most notable gists 
+## Most notable gists
+
 - [palin13.py][palin13] - This script prints words that are still words when rot13 is applied.
 - [imgzipper.py and imgzipper-golfed.py][imgzipper] - This script creates a zip file with the images asked by the user (two files : golfed and readable).
 - [snake.py][snake] - Simple Python snake using curses.
 - [AreYouDumb.java][AreYouDumb] - Simple funny Java Swing window.
 - [mvn_win_install.cmd][mvn_win_install] - Windows command to install maven because its such a pain to do it manually.
 - [tictactoe.py][tictactoe] - Simple Python Tic-tac-toe using the mouse in the terminal with curses.
+- [switch_com_dev.js][switch_com_dev] - Switch between Switch between .com and .dev domains on your browser.
 
-# Links 
+## Links
+
 - [florianlatapie.github.io][github.io]         - redirects to my LinkedIn page
 - [gist.github.com/FlorianLatapie][gist github] - my Gist : there is a lot of tiny projects I've made, some of them are funny, some are useful you should check them out !
 
-# Stats
+## Stats
+
 ![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=FlorianLatapie)
 ![GitHub License](https://img.shields.io/github/license/FlorianLatapie/FlorianLatapie)
 
@@ -36,7 +41,6 @@ I'm Florian Latapie, living in France and currently studying for an engineering 
 
 <!-- Sources -->
 <!-- Misc. -->
-[Java logo]: https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/java/java-original.svg?size=80
 [Polytech]: https://polytech.univ-cotedazur.fr/
 
 <!-- Projects links-->
@@ -54,13 +58,14 @@ I'm Florian Latapie, living in France and currently studying for an engineering 
 [AreYouDumb]: https://gist.github.com/FlorianLatapie/e56b7ccb152d8851c8944339a60de1ca
 [mvn_win_install]: https://gist.github.com/FlorianLatapie/3c3125a2a371dc08991313401f04db65
 [tictactoe]: https://gist.github.com/FlorianLatapie/c6d81b0351fe88a60e8b1502eeef1152
+[switch_com_dev]: https://gist.github.com/FlorianLatapie/be766b7e08447bd093e2b172df4ef9d8
 
 <!-- Links -->
 [github.io]: https://florianlatapie.github.io/
 [gist github]: https://gist.github.com/FlorianLatapie
 
 <!-- Stats -->
-[GitHub Stats]: https://github-readme-stats.vercel.app/api?username=FlorianLatapie&count_private=true&show_icons=true 
+[GitHub Stats]: https://github-readme-stats.vercel.app/api?username=FlorianLatapie&count_private=true&show_icons=true
 [GitHub Streak]: https://github-readme-streak-stats.herokuapp.com/?user=florianlatapie&date_format=j%2Fn%5B%2FY%5D
 [Readme Card]: https://github-readme-stats.vercel.app/api/pin/?username=florianlatapie&repo=florianlatapie&show_owner=true
 [Top Langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=FlorianLatapie
