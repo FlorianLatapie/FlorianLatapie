@@ -20,6 +20,7 @@ I'm Florian Latapie, living in France and currently studying for an engineering 
 - [mvn_win_install.cmd][mvn_win_install] - Windows command to install maven because its such a pain to do it manually.
 - [tictactoe.py][tictactoe] - Simple Python Tic-tac-toe using the mouse in the terminal with curses.
 - [switch_com_dev.js][switch_com_dev] - Switch between Switch between .com and .dev domains on your browser.
+- [go_to_gists.js][go_to_gists] - Go directly to a person's GitHub Gist profile by clicking on a bookmark with this code.
 
 ## Links
 
@@ -59,6 +60,7 @@ I'm Florian Latapie, living in France and currently studying for an engineering 
 [mvn_win_install]: https://gist.github.com/FlorianLatapie/3c3125a2a371dc08991313401f04db65
 [tictactoe]: https://gist.github.com/FlorianLatapie/c6d81b0351fe88a60e8b1502eeef1152
 [switch_com_dev]: https://gist.github.com/FlorianLatapie/be766b7e08447bd093e2b172df4ef9d8
+[go_to_gists]: https://gist.github.com/FlorianLatapie/72d5b86cf51f71392ab82b2fd034c1d6
 
 <!-- Links -->
 [github.io]: https://florianlatapie.github.io/
