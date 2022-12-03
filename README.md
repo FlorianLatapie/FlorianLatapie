@@ -1,4 +1,4 @@
-# Hey there
+# Hey there 👋
 
 I'm Florian Latapie, living in France and currently studying for an engineering degree in Computer Science at the [Polytech Nice : Sophia Antipolis engineering graduate school][Polytech]
 
