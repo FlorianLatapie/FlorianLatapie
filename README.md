@@ -4,28 +4,28 @@ I'm Florian Latapie, living in France and currently studying for an engineering 
 
 ## Projects
 
-- [BetterClock][BetterClock] - Analog & Digital clock at the same time, Java project.
-- [Config][Config] - All config files for my computers.
-- [GUI Python scripts][gui-python-scripts] - Various Python scripts for CSV file analysis with UI in Tkinter.
+- [BetterClock][BetterClock]                                             - Analog & Digital clock at the same time, Java project.
+- [Config][Config]                                                       - All config files for my computers.
+- [GUI Python scripts][gui-python-scripts]                               - Various Python scripts for CSV file analysis with UI in Tkinter.
 - [GUI Windows Sandbox configuration][GUI-Windows-Sandbox-configuration] - Python Tkinter Graphical User Interface to configure Windows Sandbox.
-- [LeftOrRightSimple][LeftOrRightSimple] - Ask the community what they think about different concepts, PHP project.
-- [computer-outro][computer-outro] - Shutdown your computer with an awesome outro music !
+- [LeftOrRightSimple][LeftOrRightSimple]                                 - Ask the community what they think about different concepts, PHP project.
+- [computer-outro][computer-outro]                                       - Shutdown your computer with an awesome outro music !
 
 ## Most notable gists
 
-- [palin13.py][palin13] - This script prints words that are still words when rot13 is applied.
+- [palin13.py][palin13]                             - This script prints words that are still words when rot13 is applied.
 - [imgzipper.py and imgzipper-golfed.py][imgzipper] - This script creates a zip file with the images asked by the user (two files : golfed and readable).
-- [snake.py][snake] - Simple Python snake using curses.
-- [AreYouDumb.java][AreYouDumb] - Simple funny Java Swing window.
-- [mvn_win_install.cmd][mvn_win_install] - Windows command to install maven because its such a pain to do it manually.
-- [tictactoe.py][tictactoe] - Simple Python Tic-tac-toe using the mouse in the terminal with curses.
-- [switch_com_dev.js][switch_com_dev] - Switch between Switch between .com and .dev domains on your browser.
-- [go_to_gists.js][go_to_gists] - Go directly to a person's GitHub Gist profile by clicking on a bookmark with this code.
+- [snake.py][snake]                                 - Simple Python snake using curses.
+- [AreYouDumb.java][AreYouDumb]                     - Simple funny Java Swing window.
+- [mvn_win_install.cmd][mvn_win_install]            - Windows command to install maven because its such a pain to do it manually.
+- [tictactoe.py][tictactoe]                         - Simple Python Tic-tac-toe using the mouse in the terminal with curses.
+- [switch_com_dev.js][switch_com_dev]               - Switch between Switch between .com and .dev domains on your browser.
+- [go_to_gists.js][go_to_gists]                     - Go directly to a person's GitHub Gist profile by clicking on a bookmark with this code.
 
 ## Links
 
-- [florianlatapie.github.io][github.io]         - redirects to my LinkedIn page
-- [gist.github.com/FlorianLatapie][gist github] - my Gist : there is a lot of tiny projects I've made, some of them are funny, some are useful you should check them out !
+- [florianlatapie.github.io][github.io]         - Redirects to my LinkedIn page
+- [gist.github.com/FlorianLatapie][gist github] - My Gist : there is a lot of tiny projects I've made, some of them are funny, some are useful you should check them out !
 
 ## Stats
 
