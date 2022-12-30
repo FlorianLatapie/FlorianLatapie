@@ -1,8 +1,8 @@
 # Hey there 👋
 
-I'm Florian Latapie, living in France and currently studying for an engineering degree in Computer Science at the [Polytech Nice : Sophia Antipolis engineering graduate school][Polytech]
+I'm Florian Latapie, living in France and currently studying for an engineering degree in Computer Science at the [Polytech Nice : Sophia Antipolis engineering graduate school][Polytech].
 
-## Projects
+## Personal Projects
 
 - [BetterClock][BetterClock]                                             - Analog & Digital clock at the same time, Java project.
 - [Config][Config]                                                       - All config files for my computers.
@@ -10,6 +10,30 @@ I'm Florian Latapie, living in France and currently studying for an engineering 
 - [GUI Windows Sandbox configuration][GUI-Windows-Sandbox-configuration] - Python Tkinter Graphical User Interface to configure Windows Sandbox.
 - [LeftOrRightSimple][LeftOrRightSimple]                                 - Ask the community what they think about different concepts, PHP project.
 - [computer-outro][computer-outro]                                       - Shutdown your computer with an awesome outro music !
+
+## School projects
+
+I imported most of my school projects on GitHub, you can find them by sorting [my repositories][my-repositories] by name :  
+
+`SchoolName`-(`Year`-)`Semester`_`ProjectName`
+
+School names :
+
+- PNS : Polytech Nice Sophia
+- UNS-IUT-Info : Université Nice Sophia Antipolis - IUT Informatique - Campus Fabron
+
+Years :
+
+- SI3 : 1st year of engineering degree
+- SI4 : 2nd year of engineering degree
+- SI5 : 3rd and last year of engineering degree
+
+Semesters :
+
+- S[1-4] : UNS-IUT-Info semesters
+- S[5-9] : PNS semesters
+
+Some projects are coded in French, the language of the code and the documentation is specified in the description of the repository.
 
 ## Most notable gists
 
@@ -45,6 +69,7 @@ I'm Florian Latapie, living in France and currently studying for an engineering 
 [Polytech]: https://polytech.univ-cotedazur.fr/
 
 <!-- Projects links-->
+[my-repositories]: https://github.com/FlorianLatapie?tab=repositories&sort=name
 [BetterClock]: https://github.com/FlorianLatapie/BetterClock
 [Config]: https://github.com/FlorianLatapie/Config
 [gui-python-scripts]: https://github.com/FlorianLatapie/gui-python-scripts
