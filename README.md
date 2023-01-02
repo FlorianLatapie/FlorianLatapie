@@ -10,6 +10,7 @@ I'm Florian Latapie, living in France and currently studying for an engineering 
 - [GUI Windows Sandbox configuration][GUI-Windows-Sandbox-configuration] - Python Tkinter Graphical User Interface to configure Windows Sandbox.
 - [LeftOrRightSimple][LeftOrRightSimple]                                 - Ask the community what they think about different concepts, PHP project.
 - [computer-outro][computer-outro]                                       - Shutdown your computer with an awesome outro music !
+- [Exemple_projet_NodeJS][Exemple_projet_NodeJS]                         - Tutorial to create an Express project (Node.js)
 
 ## School projects
 
@@ -76,6 +77,7 @@ Some projects are coded in French, the language of the code and the documentatio
 [GUI-Windows-Sandbox-configuration]: https://github.com/FlorianLatapie/GUI-Windows-Sandbox-configuration
 [LeftOrRightSimple]: https://github.com/FlorianLatapie/LeftOrRightSimple
 [computer-outro]: https://github.com/FlorianLatapie/computer-outro
+[Exemple_projet_NodeJS]: https://github.com/FlorianLatapie/Exemple_projet_NodeJS
 
 <!-- Gists links -->
 [palin13]: https://gist.github.com/FlorianLatapie/dcbfc6a26423162c2fef6886a3501684
