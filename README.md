@@ -16,7 +16,7 @@ I'm Florian Latapie, living in France and currently studying for an engineering 
 
 I imported most of my school projects on GitHub, you can find them by sorting [my repositories][my-repositories] by name :  
 
-`SchoolName`-(`Year`-)`Semester`_`ProjectName`
+`SchoolName`-`Year`-`Semester`_`ProjectName`
 
 School names :
 
@@ -24,7 +24,8 @@ School names :
 - UNS-IUT-Info : Université Nice Sophia Antipolis - IUT Informatique - Campus Fabron
 
 Years :
-
+- IUT1 : 1st year of two year of university diploma in Computer Science
+- IUT2 : 2nd and last year of university diploma in Computer Science
 - SI3 : 1st year of engineering degree
 - SI4 : 2nd year of engineering degree
 - SI5 : 3rd and last year of engineering degree
