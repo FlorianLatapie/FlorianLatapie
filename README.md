@@ -11,6 +11,7 @@ I'm Florian Latapie, living in France and currently studying for an engineering 
 - [LeftOrRightSimple][LeftOrRightSimple]                                 - Ask the community what they think about different concepts, PHP project.
 - [computer-outro][computer-outro]                                       - Shutdown your computer with an awesome outro music !
 - [Exemple_projet_NodeJS][Exemple_projet_NodeJS]                         - Tutorial to create an Express project (Node.js)
+- [Scrape Hyperplanning Polytech Nice Sophia][Scrape_Hyperplanning_PNS]  - Selenium based web scraper for my school's management software
 
 ## School projects
 
@@ -79,6 +80,7 @@ Some projects are coded in French, the language of the code and the documentatio
 [LeftOrRightSimple]: https://github.com/FlorianLatapie/LeftOrRightSimple
 [computer-outro]: https://github.com/FlorianLatapie/computer-outro
 [Exemple_projet_NodeJS]: https://github.com/FlorianLatapie/Exemple_projet_NodeJS
+[Scrape_Hyperplanning_PNS]: https://github.com/FlorianLatapie/Scrape_Hyperplanning_Polytech_Nice_Sophia
 
 <!-- Gists links -->
 [palin13]: https://gist.github.com/FlorianLatapie/dcbfc6a26423162c2fef6886a3501684
