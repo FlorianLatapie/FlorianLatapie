@@ -2,16 +2,16 @@
 
 I'm Florian Latapie, living in France and currently studying for an engineering degree in Computer Science at the [Polytech Nice : Sophia Antipolis engineering graduate school][Polytech].
 
-## Personal Projects
+## Personal Projects (from most recent to least recent)
 
-- [BetterClock][BetterClock]                                             - Analog & Digital clock at the same time, Java project.
-- [Config][Config]                                                       - All config files for my computers.
-- [GUI Python scripts][gui-python-scripts]                               - Various Python scripts for CSV file analysis with UI in Tkinter.
-- [GUI Windows Sandbox configuration][GUI-Windows-Sandbox-configuration] - Python Tkinter Graphical User Interface to configure Windows Sandbox.
-- [LeftOrRightSimple][LeftOrRightSimple]                                 - Ask the community what they think about different concepts, PHP project.
-- [computer-outro][computer-outro]                                       - Shutdown your computer with an awesome outro music !
+- [Scrape Hyperplanning Polytech Nice Sophia][Scrape_Hyperplanning_PNS]  - Selenium-based web scraper for my school's management software
 - [Exemple_projet_NodeJS][Exemple_projet_NodeJS]                         - Tutorial to create an Express project (Node.js)
-- [Scrape Hyperplanning Polytech Nice Sophia][Scrape_Hyperplanning_PNS]  - Selenium based web scraper for my school's management software
+- [computer-outro][computer-outro]                                       - Shutdown your computer with awesome outro music!
+- [LeftOrRightSimple][LeftOrRightSimple]                                 - Ask the community what they think about different concepts, PHP project.
+- [GUI Windows Sandbox configuration][GUI-Windows-Sandbox-configuration] - Python Tkinter Graphical User Interface to configure Windows Sandbox.
+- [GUI Python scripts][gui-python-scripts]                               - Various Python scripts for CSV file analysis with UI in Tkinter.
+- [Config][Config]                                                       - All config files for my computers.
+- [BetterClock][BetterClock]                                             - Analog & Digital clock at the same time, Java project.
 
 ## School projects
 
