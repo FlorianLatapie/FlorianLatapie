@@ -73,7 +73,7 @@ Some projects are coded in French, the language of the code and the documentatio
 [Polytech]: https://polytech.univ-cotedazur.fr/
 
 <!-- Projects links-->
-[my-repositories]: https://github.com/FlorianLatapie?tab=repositories&sort=name
+[my-repositories]: https://github.com/FlorianLatapie?tab=repositories&q=&type=archived&language=&sort=name
 [BetterClock]: https://github.com/FlorianLatapie/BetterClock
 [Config]: https://github.com/FlorianLatapie/Config
 [gui-python-scripts]: https://github.com/FlorianLatapie/gui-python-scripts
