@@ -22,22 +22,28 @@ I imported most of my school projects on GitHub, you can find them by sorting [m
 
 School names :
 
-- PNS : Polytech Nice Sophia
-- UNS-IUT-Info : Université Nice Sophia Antipolis - IUT Informatique - Campus Fabron
+- PNS : Polytech Nice Sophia  
+  
+~~- UNS-IUT-Info : Université Nice Sophia Antipolis - IUT Informatique - Campus Fabron~~
 
 Years :
-- IUT1 : 1st year of two year of university diploma in Computer Science
-- IUT2 : 2nd and last year of university diploma in Computer Science
+
+~~- IUT1 : 1st year of two year of university diploma in Computer Science~~  
+~~- IUT2 : 2nd and last year of university diploma in Computer Science~~
+
 - SI3 : 1st year of engineering degree
 - SI4 : 2nd year of engineering degree
 - SI5 : 3rd and last year of engineering degree
 
 Semesters :
 
-- S[1-4] : UNS-IUT-Info semesters
+~~- S[1-4] : UNS-IUT-Info semesters~~
+
 - S[5-9] : PNS semesters
 
 Some projects are coded in French, the language of the code and the documentation is specified in the description of the repository.
+
+2023/11/17 edit : One of my teachers at UNS-IUT-Info has asked me to remove all the git repositories associated with this school.
 
 ## Most notable gists
 
