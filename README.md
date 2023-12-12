@@ -81,7 +81,7 @@ Some projects are coded in French, the language of the code and the documentatio
 <!-- Projects links-->
 [my-repositories]: https://github.com/FlorianLatapie?tab=repositories&q=&type=archived&language=&sort=name
 [BetterClock]: https://github.com/FlorianLatapie/BetterClock
-[Config]: https://florianlatapie.github.io/Config/PWA/
+[Config]: https://florianlatapie.github.io/Config/
 [gui-python-scripts]: https://github.com/FlorianLatapie/gui-python-scripts
 [GUI-Windows-Sandbox-configuration]: https://github.com/FlorianLatapie/GUI-Windows-Sandbox-configuration
 [LeftOrRightSimple]: https://github.com/FlorianLatapie/LeftOrRightSimple
