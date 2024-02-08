@@ -22,18 +22,18 @@ I imported most of my school projects on GitHub, you can find them by sorting [m
 
 School names :
 
-- PNS : Polytech Nice Sophia  
+- [PNS : Polytech Nice Sophia](https://github.com/FlorianLatapie?tab=repositories&q=PNS)
   
-~~- UNS-IUT-Info : Université Nice Sophia Antipolis - IUT Informatique - Campus Fabron~~
+~~- [UNS-IUT-Info : Université Nice Sophia Antipolis - IUT Informatique - Campus Fabron](https://github.com/FlorianLatapie?tab=repositories&q=IUT)~~
 
 Years :
 
-~~- IUT1 : 1st year of two year of university diploma in Computer Science~~  
-~~- IUT2 : 2nd and last year of university diploma in Computer Science~~
+~~- [IUT1 : 1st year of two year of university diploma in Computer Science](https://github.com/FlorianLatapie?tab=repositories&q=IUT1)~~  
+~~- [IUT2 : 2nd and last year of university diploma in Computer Science](https://github.com/FlorianLatapie?tab=repositories&q=IUT2)~~
 
-- SI3 : 1st year of engineering degree
-- SI4 : 2nd year of engineering degree
-- SI5 : 3rd and last year of engineering degree
+- [SI3 : 1st year of engineering degree](https://github.com/FlorianLatapie?tab=repositories&q=PNS-SI3)
+- [SI4 : 2nd year of engineering degree](https://github.com/FlorianLatapie?tab=repositories&q=PNS-SI4)
+- [SI5 : 3rd and last year of engineering degree](https://github.com/FlorianLatapie?tab=repositories&q=PNS-SI5)
 
 Semesters :
 
@@ -58,8 +58,8 @@ Some projects are coded in French, the language of the code and the documentatio
 
 ## Links
 
-- [florianlatapie.github.io][github.io]         - Redirects to my LinkedIn page
-- [gist.github.com/FlorianLatapie][gist github] - My Gist : there is a lot of tiny projects I've made, some of them are funny, some are useful you should check them out !
+- [florianlatapie.github.io][github.io]             - Redirects to my LinkedIn page
+- [gist.github.com/FlorianLatapie][gist github]     - My Gist : there is a lot of tiny projects I've made, some of them are funny, some are useful you should check them out !
 
 ## Stats
 
@@ -79,33 +79,33 @@ Some projects are coded in French, the language of the code and the documentatio
 [Polytech]: https://polytech.univ-cotedazur.fr/
 
 <!-- Projects links-->
-[my-repositories]: https://github.com/FlorianLatapie?tab=repositories&q=&type=archived&language=&sort=name
-[BetterClock]: https://github.com/FlorianLatapie/BetterClock
-[Config]: https://florianlatapie.github.io/Config/
-[gui-python-scripts]: https://github.com/FlorianLatapie/gui-python-scripts
+[my-repositories]:                   https://github.com/FlorianLatapie?tab=repositories&q=&type=archived&language=&sort=name
+[BetterClock]:                       https://github.com/FlorianLatapie/BetterClock
+[Config]:                            https://florianlatapie.github.io/Config/
+[gui-python-scripts]:                https://github.com/FlorianLatapie/gui-python-scripts
 [GUI-Windows-Sandbox-configuration]: https://github.com/FlorianLatapie/GUI-Windows-Sandbox-configuration
-[LeftOrRightSimple]: https://github.com/FlorianLatapie/LeftOrRightSimple
-[computer-outro]: https://github.com/FlorianLatapie/computer-outro
-[Exemple_projet_NodeJS]: https://github.com/FlorianLatapie/Exemple_projet_NodeJS
-[Scrape_Hyperplanning_PNS]: https://github.com/FlorianLatapie/Scrape_Hyperplanning_Polytech_Nice_Sophia
-[docker android]: https://github.com/FlorianLatapie/Config/blob/main/linux/termux/docker/README.md
+[LeftOrRightSimple]:                 https://github.com/FlorianLatapie/LeftOrRightSimple
+[computer-outro]:                    https://github.com/FlorianLatapie/computer-outro
+[Exemple_projet_NodeJS]:             https://github.com/FlorianLatapie/Exemple_projet_NodeJS
+[Scrape_Hyperplanning_PNS]:          https://github.com/FlorianLatapie/Scrape_Hyperplanning_Polytech_Nice_Sophia
+[docker android]:                    https://github.com/FlorianLatapie/Config/blob/main/linux/termux/docker/README.md
 
 <!-- Gists links -->
-[palin13]: https://gist.github.com/FlorianLatapie/dcbfc6a26423162c2fef6886a3501684
-[imgzipper]: https://gist.github.com/FlorianLatapie/60785afb8cd25b8767e14832d19679eb
-[snake]: https://gist.github.com/FlorianLatapie/3f67869fc97fa5c76b86fac4fce9500b
-[AreYouDumb]: https://gist.github.com/FlorianLatapie/e56b7ccb152d8851c8944339a60de1ca
+[palin13]:         https://gist.github.com/FlorianLatapie/dcbfc6a26423162c2fef6886a3501684
+[imgzipper]:       https://gist.github.com/FlorianLatapie/60785afb8cd25b8767e14832d19679eb
+[snake]:           https://gist.github.com/FlorianLatapie/3f67869fc97fa5c76b86fac4fce9500b
+[AreYouDumb]:      https://gist.github.com/FlorianLatapie/e56b7ccb152d8851c8944339a60de1ca
 [mvn_win_install]: https://gist.github.com/FlorianLatapie/3c3125a2a371dc08991313401f04db65
-[tictactoe]: https://gist.github.com/FlorianLatapie/c6d81b0351fe88a60e8b1502eeef1152
-[switch_com_dev]: https://gist.github.com/FlorianLatapie/be766b7e08447bd093e2b172df4ef9d8
-[go_to_gists]: https://gist.github.com/FlorianLatapie/72d5b86cf51f71392ab82b2fd034c1d6
+[tictactoe]:       https://gist.github.com/FlorianLatapie/c6d81b0351fe88a60e8b1502eeef1152
+[switch_com_dev]:  https://gist.github.com/FlorianLatapie/be766b7e08447bd093e2b172df4ef9d8
+[go_to_gists]:     https://gist.github.com/FlorianLatapie/72d5b86cf51f71392ab82b2fd034c1d6
 
 <!-- Links -->
-[github.io]: https://florianlatapie.github.io/
+[github.io]:   https://florianlatapie.github.io/
 [gist github]: https://gist.github.com/FlorianLatapie
 
 <!-- Stats -->
-[GitHub Stats]: https://github-readme-stats.vercel.app/api?username=FlorianLatapie&count_private=true&show_icons=true
+[GitHub Stats]:  https://github-readme-stats.vercel.app/api?username=FlorianLatapie&count_private=true&show_icons=true
 [GitHub Streak]: https://github-readme-streak-stats.herokuapp.com/?user=florianlatapie&date_format=j%2Fn%5B%2FY%5D
-[Readme Card]: https://github-readme-stats.vercel.app/api/pin/?username=florianlatapie&repo=florianlatapie&show_owner=true
-[Top Langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=FlorianLatapie
+[Readme Card]:   https://github-readme-stats.vercel.app/api/pin/?username=florianlatapie&repo=florianlatapie&show_owner=true
+[Top Langs]:     https://github-readme-stats.vercel.app/api/top-langs/?username=FlorianLatapie
