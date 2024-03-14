@@ -1,6 +1,6 @@
 # Hey there 👋
 
-I'm Florian Latapie, living in France and currently studying for an engineering degree in Computer Science at the [Polytech Nice : Sophia Antipolis engineering graduate school][Polytech].
+I'm Florian Latapie, living in France and currently studying for an engineering degree in Computer Science at the [Polytech Nice: Sophia Antipolis engineering graduate school][Polytech].
 
 ## Personal Projects (from most recent to least recent)
 
@@ -9,46 +9,47 @@ I'm Florian Latapie, living in France and currently studying for an engineering 
 - [Exemple_projet_NodeJS][Exemple_projet_NodeJS]                         - Tutorial to create an Express project (Node.js)
 - [computer-outro][computer-outro]                                       - Shutdown your computer with awesome outro music!
 - [LeftOrRightSimple][LeftOrRightSimple]                                 - Ask the community what they think about different concepts, PHP project.
-- [GUI Windows Sandbox configuration][GUI-Windows-Sandbox-configuration] - Python Tkinter Graphical User Interface to configure Windows Sandbox.
-- [GUI Python scripts][gui-python-scripts]                               - Various Python scripts for CSV file analysis with UI in Tkinter.
+- [GUI Windows Sandbox configuration][GUI-Windows-Sandbox-configuration] - Python Tkinter Graphical User Interface to configure Windows Sandbox.<!--\n- [GUI Python scripts][gui-python-scripts]                               - Various Python scripts for CSV file analysis with UI in Tkinter.-->
 - [Config][Config]                                                       - All config files for my computers.
 - [BetterClock][BetterClock]                                             - Analog & Digital clock at the same time, Java project.
 
 ## School projects
 
-I imported most of my school projects on GitHub, you can find them by sorting [my repositories][my-repositories] by name :  
+I imported most of my school projects on GitHub, you can find them by sorting [my repositories][my-repositories] by name:  
 
 `SchoolName`-`Year`-`Semester`_`ProjectName`
 
-School names :
+School names:
 
-- [PNS : Polytech Nice Sophia](https://github.com/FlorianLatapie?tab=repositories&q=PNS)
+- [PNS: Polytech Nice Sophia](https://github.com/FlorianLatapie?tab=repositories&q=PNS)
   
-~~- [UNS-IUT-Info : Université Nice Sophia Antipolis - IUT Informatique - Campus Fabron](https://github.com/FlorianLatapie?tab=repositories&q=IUT)~~
+~~- [UNS-IUT-Info: Université Nice Sophia Antipolis - IUT Informatique - Campus Fabron](https://github.com/FlorianLatapie?tab=repositories&q=IUT)~~
 
-Years :
+Years:
 
-~~- [IUT1 : 1st year of two year of university diploma in Computer Science](https://github.com/FlorianLatapie?tab=repositories&q=IUT1)~~  
-~~- [IUT2 : 2nd and last year of university diploma in Computer Science](https://github.com/FlorianLatapie?tab=repositories&q=IUT2)~~
+~~- [IUT1: 1st year of two year of university diploma in Computer Science](https://github.com/FlorianLatapie?tab=repositories&q=IUT1)~~  
+~~- [IUT2: 2nd and last year of university diploma in Computer Science](https://github.com/FlorianLatapie?tab=repositories&q=IUT2)~~
 
-- [SI3 : 1st year of engineering degree](https://github.com/FlorianLatapie?tab=repositories&q=PNS-SI3)
-- [SI4 : 2nd year of engineering degree](https://github.com/FlorianLatapie?tab=repositories&q=PNS-SI4)
-- [SI5 : 3rd and last year of engineering degree](https://github.com/FlorianLatapie?tab=repositories&q=PNS-SI5)
+- [SI3: 1st year of engineering degree](https://github.com/FlorianLatapie?tab=repositories&q=PNS-SI3)
+- [SI4: 2nd year of engineering degree](https://github.com/FlorianLatapie?tab=repositories&q=PNS-SI4)
+- [SI5: 3rd and last year of engineering degree](https://github.com/FlorianLatapie?tab=repositories&q=PNS-SI5)
 
-Semesters :
+Semesters:
 
-~~- S[1-4] : UNS-IUT-Info semesters~~
+~~- S[1-4]: UNS-IUT-Info semesters~~
 
-- S[5-9] : PNS semesters
+- S[5-9]: PNS semesters
 
 Some projects are coded in French, the language of the code and the documentation is specified in the description of the repository.
 
-2023/11/17 edit : One of my teachers at UNS-IUT-Info has asked me to remove all the git repositories associated with this school.
+> [!NOTE]
+> 2023/11/17 edit:  
+> One of my teachers at UNS-IUT-Info has asked me to remove all the git repositories associated with this school.
 
 ## Most notable gists
 
 - [palin13.py][palin13]                             - This script prints words that are still words when rot13 is applied.
-- [imgzipper.py and imgzipper-golfed.py][imgzipper] - This script creates a zip file with the images asked by the user (two files : golfed and readable).
+- [imgzipper.py and imgzipper-golfed.py][imgzipper] - This script creates a zip file with the images asked by the user (two files: golfed and readable).
 - [snake.py][snake]                                 - Simple Python snake using curses.
 - [AreYouDumb.java][AreYouDumb]                     - Simple funny Java Swing window.
 - [mvn_win_install.cmd][mvn_win_install]            - Windows command to install maven because its such a pain to do it manually.
@@ -59,7 +60,7 @@ Some projects are coded in French, the language of the code and the documentatio
 ## Links
 
 - [florianlatapie.github.io][github.io]             - Redirects to my LinkedIn page
-- [gist.github.com/FlorianLatapie][gist github]     - My Gist : there is a lot of tiny projects I've made, some of them are funny, some are useful you should check them out !
+- [gist.github.com/FlorianLatapie][gist github]     - My Gist: there is a lot of tiny projects I've made, some of them are funny, some are useful you should check them out !
 
 ## Stats
 
