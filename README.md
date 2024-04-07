@@ -5,8 +5,7 @@ I'm Florian Latapie, living in France and currently studying for an engineering 
 ## Personal Projects (from most recent to least recent)
 
 - [Scrape Hyperplanning Polytech Nice Sophia][Scrape_Hyperplanning_PNS]  - Selenium-based web scraper for my school's management software
-- [Running Docker on Android (no root)][docker android]                  - I tried just for fun to run Docker on my non rooted phone, it works (tutorial in french)
-- [Exemple_projet_NodeJS][Exemple_projet_NodeJS]                         - Tutorial to create an Express project (Node.js)
+- [Running Docker on Android (no root)][docker android]                  - I tried just for fun to run Docker on my non rooted phone, it works (tutorial in french)<!--- [Exemple_projet_NodeJS][Exemple_projet_NodeJS]                         - Tutorial to create an Express project (Node.js)-->
 - [computer-outro][computer-outro]                                       - Shutdown your computer with awesome outro music!
 - [LeftOrRightSimple][LeftOrRightSimple]                                 - Ask the community what they think about different concepts, PHP project.
 - [GUI Windows Sandbox configuration][GUI-Windows-Sandbox-configuration] - Python Tkinter Graphical User Interface to configure Windows Sandbox.<!--\n- [GUI Python scripts][gui-python-scripts]                               - Various Python scripts for CSV file analysis with UI in Tkinter.-->
