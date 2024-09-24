@@ -1,6 +1,6 @@
 # Hey there 👋
 
-I'm Florian Latapie, living in France and currently studying for an engineering degree in Computer Science at the [Polytech Nice: Sophia Antipolis engineering graduate school][Polytech].
+I'm Florian Latapie !
 
 ## Personal Projects (from most recent to least recent)
 
@@ -81,6 +81,7 @@ Some projects are coded in French, the language of the code and the documentatio
 
 <!-- Projects links-->
 [my-repositories]:                   https://github.com/FlorianLatapie?tab=repositories&q=&type=archived&language=&sort=name
+
 [BetterClock]:                       https://github.com/FlorianLatapie/BetterClock
 [Config]:                            https://florianlatapie.github.io/Config/
 [gui-python-scripts]:                https://github.com/FlorianLatapie/gui-python-scripts
