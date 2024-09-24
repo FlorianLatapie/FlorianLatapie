@@ -4,6 +4,7 @@ I'm Florian Latapie, living in France and currently studying for an engineering 
 
 ## Personal Projects (from most recent to least recent)
 
+- [MS-Edge_Read_aloud_fix][read_aloud]                                   - Fix Microsoft Edge Read aloud feature by replacing ASCII chars to UTF-8 chars on a page
 - [Scrape Hyperplanning Polytech Nice Sophia][Scrape_Hyperplanning_PNS]  - Selenium-based web scraper for my school's management software
 - [Running Docker on Android (no root)][docker android]                  - I tried just for fun to run Docker on my non rooted phone, it works (tutorial in french)<!--- [Exemple_projet_NodeJS][Exemple_projet_NodeJS]                         - Tutorial to create an Express project (Node.js)-->
 - [computer-outro][computer-outro]                                       - Shutdown your computer with awesome outro music!
@@ -89,6 +90,7 @@ Some projects are coded in French, the language of the code and the documentatio
 [Exemple_projet_NodeJS]:             https://github.com/FlorianLatapie/Exemple_projet_NodeJS
 [Scrape_Hyperplanning_PNS]:          https://github.com/FlorianLatapie/Scrape_Hyperplanning_Polytech_Nice_Sophia
 [docker android]:                    https://github.com/FlorianLatapie/Config/blob/main/linux/termux/docker/README.md
+[read_aloud]:                        https://github.com/FlorianLatapie/MS-Edge_Read_aloud_fix
 
 <!-- Gists links -->
 [palin13]:         https://gist.github.com/FlorianLatapie/dcbfc6a26423162c2fef6886a3501684
