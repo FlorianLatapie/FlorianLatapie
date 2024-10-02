@@ -4,7 +4,7 @@ I'm Florian Latapie !
 
 ## Personal Projects (from most recent to least recent)
 
-- [MS-Edge_Read_aloud_fix][read_aloud]                                   - Fix Microsoft Edge Read aloud feature by replacing ASCII chars to UTF-8 chars on a page
+- [MS-Edge_Read_aloud_fix][read_aloud]                                   - Fix Microsoft Edge's read-aloud function by replacing error-prone characters with similar looking ones.
 - [Scrape Hyperplanning Polytech Nice Sophia][Scrape_Hyperplanning_PNS]  - Selenium-based web scraper for my school's management software
 - [Running Docker on Android (no root)][docker android]                  - I tried just for fun to run Docker on my non rooted phone, it works (tutorial in french)<!--- [Exemple_projet_NodeJS][Exemple_projet_NodeJS]                         - Tutorial to create an Express project (Node.js)-->
 - [computer-outro][computer-outro]                                       - Shutdown your computer with awesome outro music!
