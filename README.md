@@ -4,6 +4,7 @@ I'm Florian Latapie !
 
 ## Personal Projects (from most recent to least recent)
 
+- [mdp][mdp]                                                             - Because `motdepasse.xyz` became an ad filled website
 - [MS-Edge_Read_aloud_fix][read_aloud]                                   - Fix Microsoft Edge's read-aloud function by replacing error-prone characters with similar looking ones.
 - [Scrape Hyperplanning Polytech Nice Sophia][Scrape_Hyperplanning_PNS]  - Selenium-based web scraper for my school's management software
 - [Running Docker on Android (no root)][docker android]                  - I tried just for fun to run Docker on my non rooted phone, it works (tutorial in french)<!--- [Exemple_projet_NodeJS][Exemple_projet_NodeJS]                         - Tutorial to create an Express project (Node.js)-->
@@ -92,6 +93,7 @@ Some projects are coded in French, the language of the code and the documentatio
 [Scrape_Hyperplanning_PNS]:          https://github.com/FlorianLatapie/Scrape_Hyperplanning_Polytech_Nice_Sophia
 [docker android]:                    https://github.com/FlorianLatapie/Config/blob/main/linux/termux/docker/README.md
 [read_aloud]:                        https://github.com/FlorianLatapie/MS-Edge_Read_aloud_fix
+[mdp]:                               https://florianlatapie.github.io/mdp/
 
 <!-- Gists links -->
 [palin13]:         https://gist.github.com/FlorianLatapie/dcbfc6a26423162c2fef6886a3501684
