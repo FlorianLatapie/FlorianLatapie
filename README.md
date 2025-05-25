@@ -9,7 +9,6 @@ I'm Florian Latapie !
 - [Scrape Hyperplanning Polytech Nice Sophia][Scrape_Hyperplanning_PNS]  - Selenium-based web scraper for my school's management software
 - [Running Docker on Android (no root)][docker android]                  - I tried just for fun to run Docker on my non rooted phone, it works (tutorial in french)<!--- [Exemple_projet_NodeJS][Exemple_projet_NodeJS]                         - Tutorial to create an Express project (Node.js)-->
 - [computer-outro][computer-outro]                                       - Shutdown your computer with awesome outro music!
-- [LeftOrRightSimple][LeftOrRightSimple]                                 - Ask the community what they think about different concepts, PHP project.
 - [GUI Windows Sandbox configuration][GUI-Windows-Sandbox-configuration] - Python Tkinter Graphical User Interface to configure Windows Sandbox.<!--\n- [GUI Python scripts][gui-python-scripts]                               - Various Python scripts for CSV file analysis with UI in Tkinter.-->
 - [Config][Config]                                                       - All config files for my computers.
 - [BetterClock][BetterClock]                                             - Analog & Digital clock at the same time, Java project.
@@ -87,7 +86,6 @@ Some projects are coded in French, the language of the code and the documentatio
 [Config]:                            https://florianlatapie.github.io/Config/
 [gui-python-scripts]:                https://github.com/FlorianLatapie/gui-python-scripts
 [GUI-Windows-Sandbox-configuration]: https://github.com/FlorianLatapie/GUI-Windows-Sandbox-configuration
-[LeftOrRightSimple]:                 https://github.com/FlorianLatapie/LeftOrRightSimple
 [computer-outro]:                    https://github.com/FlorianLatapie/computer-outro
 [Exemple_projet_NodeJS]:             https://github.com/FlorianLatapie/Exemple_projet_NodeJS
 [Scrape_Hyperplanning_PNS]:          https://github.com/FlorianLatapie/Scrape_Hyperplanning_Polytech_Nice_Sophia
